@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Ankit (meenfa)
 
-### Software Developer | Full-Stack Engineer
+### Software Developer | Python, Django, Laravel | React.js & Next.js
 
-📍 Based in Kathmandu, Nepal  
-🌐 [meenfa.tech](https://meenfa.tech) | 🐦 [@meenfax](https://twitter.com/meenfax) | 💼 [LinkedIn](https://linkedin.com/in/meenfa) | 💻 [GitHub](https://github.com/meenfa)
+Based in Kathmandu, Nepal  
+[meenfa.tech](https://meenfa.tech) | [X](https://twitter.com/meenfax) | [LinkedIn](https://linkedin.com/in/meenfa) | [GitHub](https://github.com/meenfa)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate software developer specializing in building robust web applications with modern technologies. Currently focused on full-stack development with the MERN stack and expanding my expertise in container orchestration with Docker.
+I'm a passionate software developer specializing in building robust web applications with modern technologies. Currently focused on full-stack development with **Python** and **Next.js**, while expanding my expertise in container orchestration with **Docker**.
 
 **What I do:**
 - Build scalable web applications using Django, React.js, and Laravel
@@ -50,23 +50,6 @@ I'm a passionate software developer specializing in building robust web applicat
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meenfa&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meenfa&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-profile-languages.vercel.app/api?username=meenfa" alt="Top Languages"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p>
@@ -92,16 +75,6 @@ I'm a passionate software developer specializing in building robust web applicat
 - 🐳 Learning Docker containerization and orchestration best practices
 - 💼 Actively seeking new opportunities in software development
 - 🚀 Building production-ready full-stack applications
-
----
-
-<details>
-<summary>📊 More GitHub Stats</summary>
-<br/>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=meenfa&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributions"/>
-</p>
-</details>
 
 ---
 
