@@ -1,12 +1,12 @@
 ### Connect With Me
 <p>
-    <a href="https://twitter.com/ankitdotnp" target="_blank">
+    <a href="https://twitter.com/meenfax" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ankitdotnp" target="_blank">
+  <a href="https://linkedin.com/in/meenfa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://karkiankit.com.np" target="_blank">
+  <a href="https://meenfa.tech" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="40" />
   </a>
 </p>
